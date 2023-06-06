@@ -14,3 +14,5 @@ This app is a jab at the timing and positioning factor of polyphasic sleep / cyc
 
 // capitalize on how easy a well themed minimalistic white 
 // [white-gi.png, redglove.png, whitebelt.png, bluebelt.png, blackbelt.png etc.., 
+
+// bookmarking the cheesy link between:     A knockout during a fight |      "Knocking-out" for bed.    (theming must be utilized)
