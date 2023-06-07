@@ -15,7 +15,10 @@ This app is a jab at the timing and positioning factor of polyphasic sleep / cyc
 // capitalize on how easy a well themed minimalistic white 
 // [white-gi.png, redglove.png, whitebelt.png, bluebelt.png, blackbelt.png etc.., 
 
-// bookmarking the cheesy link between:     A knockout during a fight |      "Knocking-out" for bed.    (theming must be utilized)
+// bookmarking the cheesy link between:     A knockout during a fight |      "Knocking-out" for bed.    (theming must be utilized
+Bouts can go three ways:        Core sleep is met -> then for 20 minute naps: { W: user wins with ${ TakeDown | Chokehold } { Draw: user misses nap but stays awake } { L: user knocks out for bed } 
+
 possible Slogan for the app: TAKEDOWN TIRED!
 
 // possible cursor: url(karatechop.png)
+
