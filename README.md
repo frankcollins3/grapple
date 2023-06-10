@@ -22,3 +22,16 @@ possible Slogan for the app: TAKEDOWN TIRED!
 
 // possible cursor: url(karatechop.png)
 
+
+
+*** 3: RstringAfterPeriod || mSplitAtDot           provide first Letter to indicate whether Replace or Match is used for that regex.  (also i.e.) -> asteriskSplit: name splits    ***
+type RegexContextType = {
+    RstringAfterPeriod: RegExp;
+    RreturnLettersAthruZ: RegExp;
+    RreturnNumbers: RegExp;
+    RhasCaps: RegExp;
+    RhasNums: RegExp;
+    RnoWhiteSpace: RegExp;
+    MsplitAtDot: RegExp;
+  }
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * 
